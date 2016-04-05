@@ -5,26 +5,27 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-05T04:36:17.722Z'
-dateModified: '2016-04-05T04:36:17.352Z'
+description: 'Is it just me or do all the "artificial intelligence" designs on this actually look just like thegrid.io landing page?'
+datePublished: '2016-04-05T04:37:46.515Z'
+dateModified: '2016-04-05T04:37:40.689Z'
 title: Trying Once More But Still Not Impressed
 author: []
+sourcePath: _posts/2016-04-05-trying-once-more-but-still-not-impressed.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-trying-once-more-but-still-not-impressed.md
-published: true
 url: trying-once-more-but-still-not-impressed/index.html
 _type: Article
 
 ---
 # Trying Once More But Still Not Impressed
 
-Is it just me or do all the "artificial intelligence" designs on this actually look just like thegrid.io landing page? 
+Is it just me or do all the "artificial intelligence" designs on this actually look just like thegrid.io landing page?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e776295d-3cfd-494b-b245-52b6aea6fe1f.jpg)
 
 I'm wondering how it could even be possible for a system to infer my intent based on the content I create. This would necessitate a degree of intelligence that is well beyond the ability of most computers, including DeepThink, which recently celebrated triumphing over the world's greatest Go player. 
 
