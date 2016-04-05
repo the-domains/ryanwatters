@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ryanwatters]]></title>
-        <description><![CDATA[ryanwatters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Grid Site for Ryan Watters]]></title>
+        <description><![CDATA[Grid Site for Ryan Watters]]></description>
+        <link>https://thegrid.ai/ryanwatters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 04:16:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 04:25:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ryanwatters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here is Another Post Just for the Hell of it]]></title>
+            <description><![CDATA[<article><h1>Here is Another Post Just for the Hell of it</h1><p>Here is a quote from One Flew Over the Cuckoo's Nest:</p></article>]]></description>
+            <link>https://thegrid.ai/ryanwatters/here-is-another-post-just-for-the-hell-of-it/index.html</link>
+            <guid isPermaLink="false">704cac99-1e25-4981-90f5-411d5ff191c3</guid>
+            <pubDate>Tue, 05 Apr 2016 04:24:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here is My First Heading]]></title>
             <description><![CDATA[<article><h1>Here is My First Heading</h1><p>Here is some paragraph text. I'm not really sure what I'm supposed to be writing. Is this really "artificial intelligence" or just a rather unimpressive layer on top of a Wordpress sensibility?</p></article>]]></description>
-            <link>undefinedhere-is-my-first-heading/index.html</link>
+            <link>https://thegrid.ai/ryanwatters/here-is-my-first-heading/index.html</link>
             <guid isPermaLink="false">18e659c2-fb79-4eda-b23a-70b8752972f4</guid>
             <pubDate>Tue, 05 Apr 2016 04:16:02 GMT</pubDate>
         </item>
