@@ -1,0 +1,28 @@
+name: ryanwatters
+favicon: null
+layout_spectrum: 0.1936898403801024
+typography_spectrum: 0.0763423906173557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.45847586123272777
+  lightness: 0.1553458869457245
+  saturation: 0.8066852591000497
+  rhythmicContrast: 0.3234395859763026
+purpose: []
